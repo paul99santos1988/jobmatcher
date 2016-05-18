@@ -1,0 +1,7 @@
+<resources>
+    <string name="title_activity_login_area">LoginArea</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="action_settings">Logout</string>
+    <string name="app_name">Emergency App</string>
+
+</resources>
